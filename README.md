@@ -8,18 +8,18 @@
 
 Follow these steps to quickly install MiniSat:
 
-1. **Update system packages:**
+1. **Descarcă tar_to_dicom_gui.exe**
    ```bash
    sudo apt update
    sudo apt upgrade
 
-2.  **Ist:**
+2.  **Dă dublu click pe executabil → se deschide o interfață grafică.**
     ```bash
     sudo apt intall minisat
 
-3.  **Check if MiniSat was installed successfully:**
+3.  **Pași în aplicație**
     ```bash
-    minisat 
+   Apasă "Selectează fișierul .tar sau directorul" și alege fișierul/folderul.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
