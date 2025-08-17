@@ -1,7 +1,7 @@
 # Conversie TAR in DICOM
 
 
-![]()
+![](https://github.com/kogaion28/Conversie-TAR-in-DICOM/blob/main/poza.jpg)
 
 
 ## Quick 
