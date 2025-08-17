@@ -4,9 +4,8 @@
 ![](https://github.com/kogaion28/Conversie-TAR-in-DICOM/blob/main/poza.jpg)
 
 
-## Quick 
+## TAR to DICOM Converter
 
-Follow these steps to quickly install MiniSat:
 
 1. **Descarcă tar_to_dicom_gui.exe**
  
