@@ -15,16 +15,19 @@ Follow these steps to quickly install MiniSat:
 
 3.  **Pași în aplicație**
     
-   Apasă "Selectează fișierul .tar sau directorul" și alege fișierul/folderul.
-   Apasă "Selectează directorul de ieșire" și alege unde să fie salvate fișierele DICOM.
-   Bifează/débifează opțiunile suplimentare (Overwrite, No Pinnacle, No NIfTI, Quiet).
-   Apasă "Convert" → progresul este afișat într-o fereastră.
-   La final, fișierele convertite se găsesc în directorul ales.
+ -  Apasă "Selectează fișierul .tar sau directorul" și alege fișierul/folderul.
+ -  Apasă "Selectează directorul de ieșire" și alege unde să fie salvate fișierele DICOM.
+ -  Bifează/débifează opțiunile suplimentare (Overwrite, No Pinnacle, No NIfTI, Quiet).
+ -  Apasă "Convert" → progresul este afișat într-o fereastră.
+ -  La final, fișierele convertite se găsesc în directorul ales.
 
 
 
 ## ⚡Notă
+ - Fisierele .tar trebuie să fie valide (exportate din Pinnacle sau NIfTI).
+ - În cazul unor arhive corupte, aplicația va afișa erori.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
+© 2025 Kogaion28 (Jude Bogdan Laurentiu)
